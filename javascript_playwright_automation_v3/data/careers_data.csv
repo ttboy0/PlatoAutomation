@@ -1,0 +1,9 @@
+page_url,element_type,tag_name,id,classes,text,href,selector_css
+https://platotech.com/careers/,link,a,menu-item-2613-link,fusion-bar-highlight,Test Automation,https://platotech.com/services/test-automation/,#menu-item-2613-link
+https://platotech.com/careers/,link,a,menu-item-2614-link,fusion-bar-highlight,Functional Testing,https://platotech.com/services/functional-testing/,#menu-item-2614-link
+https://platotech.com/careers/,link,a,menu-item-2785-link,fusion-bar-highlight,Performance Testing,https://platotech.com/services/performance-testing/,#menu-item-2785-link
+https://platotech.com/careers/,link,a,menu-item-2612-link,fusion-bar-highlight,Enterprise Resource Planning (ERP) Testing,https://platotech.com/services/enterprise-resource-planning-erp-testing/,#menu-item-2612-link
+https://platotech.com/careers/,content,li,menu-item-2613,menu-item menu-item-type-post_type menu-item-object-page menu-item-2613,Test Automation,,#menu-item-2613
+https://platotech.com/careers/,content,li,menu-item-2614,menu-item menu-item-type-post_type menu-item-object-page menu-item-2614,Functional Testing,,#menu-item-2614
+https://platotech.com/careers/,content,li,menu-item-2785,menu-item menu-item-type-post_type menu-item-object-page menu-item-2785,Performance Testing,,#menu-item-2785
+https://platotech.com/careers/,content,li,menu-item-2612,menu-item menu-item-type-post_type menu-item-object-page menu-item-2612,Enterprise Resource Planning (ERP) Testing,,#menu-item-2612

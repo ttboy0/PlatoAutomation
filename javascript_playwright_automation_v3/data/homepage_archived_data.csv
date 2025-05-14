@@ -1,0 +1,82 @@
+page_url,element_type,tag_name,id,classes,text,href,selector_css
+https://platotech.com/,link,a,,fusion-logo-link,,https://platotech.com/,a.fusion-logo-link
+https://platotech.com/,link,a,,fusion-top-menu-item-link,Services,https://platotech.com/services/,a.fusion-top-menu-item-link
+https://platotech.com/,link,a,,fusion-top-menu-item-link,Training Program,https://platotech.com/training/,a.fusion-top-menu-item-link
+https://platotech.com/,link,a,,fusion-top-menu-item-link,Careers,https://platotech.com/careers/,a.fusion-top-menu-item-link
+https://platotech.com/,link,a,,fusion-top-menu-item-link,About Us,https://platotech.com/about/,a.fusion-top-menu-item-link
+https://platotech.com/,link,a,,fusion-top-menu-item-link,Resources,https://platotech.com/resources/,a.fusion-top-menu-item-link
+https://platotech.com/,link,a,,fusion-button button-flat button-medium button-default button-1 fusion-button-default-span fusion-button-default-type,Let’s Talk Solutions,https://platotech.com/lets-talk-solutions/,a.fusion-button.button-flat.button-medium.button-default.button-1.fusion-button-default-span.fusion-button-default-type
+https://platotech.com/,link,a,,fusion-button button-flat fusion-button-default-size button-default button-1 fusion-button-default-span fusion-button-default-type,CLICK HERE,https://platotech.us10.list-manage.com/subscribe?u=01b55587448150a600b7c501b&id=9710a03091,a.fusion-button.button-flat.fusion-button-default-size.button-default.button-1.fusion-button-default-span.fusion-button-default-type
+https://platotech.com/,link,a,,awb-down-arrow-scroll-link,,#about-us,a.awb-down-arrow-scroll-link
+https://platotech.com/,link,a,,fusion-button button-flat button-large button-default button-1 fusion-button-default-span fusion-button-default-type,Learn More About Our Services,https://platotech.com/services/,a.fusion-button.button-flat.button-large.button-default.button-1.fusion-button-default-span.fusion-button-default-type
+https://platotech.com/,link,a,,fusion-button button-flat button-large button-default button-2 fusion-button-default-span fusion-button-default-type,Learn More About Our Training Program,https://platotech.com/training/,a.fusion-button.button-flat.button-large.button-default.button-2.fusion-button-default-span.fusion-button-default-type
+https://platotech.com/,link,a,,fusion-button button-flat button-large button-default button-3 fusion-button-default-span fusion-button-default-type,Join Our Team,https://platotech.com/careers/,a.fusion-button.button-flat.button-large.button-default.button-3.fusion-button-default-span.fusion-button-default-type
+https://platotech.com/,link,a,,fusion-button button-flat button-large button-default button-4 fusion-button-default-span fusion-button-default-type,Let’s Talk Solutions,https://platotech.com/lets-talk-solutions/,a.fusion-button.button-flat.button-large.button-default.button-4.fusion-button-default-span.fusion-button-default-type
+https://platotech.com/,link,a,,fusion-button button-flat button-large button-default button-5 fusion-button-default-span fusion-button-default-type,Subscribe,https://platotech.us10.list-manage.com/subscribe?u=01b55587448150a600b7c501b&id=9710a03091,a.fusion-button.button-flat.button-large.button-default.button-5.fusion-button-default-span.fusion-button-default-type
+https://platotech.com/,link,a,,fusion-social-network-icon fusion-tooltip fusion-facebook awb-icon-facebook,,https://www.facebook.com/platotechcareers,a.fusion-social-network-icon.fusion-tooltip.fusion-facebook.awb-icon-facebook
+https://platotech.com/,link,a,,fusion-social-network-icon fusion-tooltip fusion-instagram awb-icon-instagram,,https://www.instagram.com/platotechcareers/,a.fusion-social-network-icon.fusion-tooltip.fusion-instagram.awb-icon-instagram
+https://platotech.com/,link,a,,fusion-social-network-icon fusion-tooltip fusion-linkedin awb-icon-linkedin,,https://www.linkedin.com/company/platotechinc/,a.fusion-social-network-icon.fusion-tooltip.fusion-linkedin.awb-icon-linkedin
+https://platotech.com/,link,a,,fusion-social-network-icon fusion-tooltip fusion-spotify awb-icon-spotify,,https://open.spotify.com/show/3R25Z22rNGuS92L4TSl2wR,a.fusion-social-network-icon.fusion-tooltip.fusion-spotify.awb-icon-spotify
+https://platotech.com/,link,a,menu-item-2786-link,fusion-bar-highlight,Accessibility Testing,https://platotech.com/services/accessibility-testing/,#menu-item-2786-link
+https://platotech.com/,link,a,menu-item-2612-link,fusion-bar-highlight,Content Migration and QA,https://platotech.com/services/content-migration-and-qa/,#menu-item-2612-link
+https://platotech.com/,link,a,menu-item-2617-link,fusion-bar-highlight,Test Advisory,https://platotech.com/services/test-advisory/,#menu-item-2617-link
+https://platotech.com/,link,a,menu-item-2618-link,fusion-bar-highlight,User Acceptance Testing,https://platotech.com/services/user-acceptance-testing/,#menu-item-2618-link
+https://platotech.com/,link,a,menu-item-2787-link,fusion-bar-highlight,IT & Business Consulting,https://platotech.com/services/it-business-consulting/,#menu-item-2787-link
+https://platotech.com/,link,a,,,Design de Plume Inc.,https://designdeplume.com/,#wrapper>div:nth-child(3)>div:nth-child(1)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>p:nth-child(1)>a:nth-child(1)
+https://platotech.com/,link,a,cookiesck,cli-plugin-main-link,Privacy & Cookies Policy,https://platotech.com/privacy-policy/,#cookiesck
+https://platotech.com/,link,a,cookie_action_close_header,medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn,ACCEPT,#,#cookie_action_close_header
+https://platotech.com/,link,a,,cli-privacy-⦿ Link,Privacy Overview,#privacy-overview,a.cli-privacy-⦿ Link
+https://platotech.com/,link,a,,cli-nav-link cli-nav-necessary,Necessary,#necessary,a.cli-nav-link.cli-nav-necessary
+https://platotech.com/,link,a,,cli-nav-link cli-nav-non-necessary,Non-necessary,#non-necessary,a.cli-nav-link.cli-nav-non-necessary
+https://platotech.com/,link,a,,wt-cli-privacy-save-btn cli_setting_save_button,SAVE & ACCEPT,#,a.wt-cli-privacy-save-btn.cli_setting_save_button
+https://platotech.com/,link,a,awb-to-top,fusion-top-⦿ Link,Go to Top,#,#awb-to-top
+https://platotech.com/,content,h1,,title-heading-left fusion-responsive-typography-calculated,"Changing our world by building a stronger, more inclusive technology workforce",,h1.title-heading-left.fusion-responsive-typography-calculated
+https://platotech.com/,content,p,,fusion-responsive-typography-calculated,Delivering professional technology services for 25 years.,,p.fusion-responsive-typography-calculated
+https://platotech.com/,content,h2,,title-heading-center fusion-responsive-typography-calculated,Software Testing and Technology Services,,h2.title-heading-center.fusion-responsive-typography-calculated
+https://platotech.com/,content,p,,has-text-align-center fusion-responsive-typography-calculated,PLATO is a software testing and technology services company trusted by clients around the world.,,p.has-text-align-center.fusion-responsive-typography-calculated
+https://platotech.com/,content,p,,has-text-align-center fusion-responsive-typography-calculated,"In addition to providing our clients the highest quality service, PLATO is dedicated to breaking down barriers for Indigenous people through meaningful training and employment in Canada’s technology workforce.",,p.has-text-align-center.fusion-responsive-typography-calculated
+https://platotech.com/,content,p,,has-text-align-center fusion-responsive-typography-calculated,"Built on the foundation of a 25-year software testing company, PQA Testing, PLATO is an experienced, innovative, proudly Canadian company.",,p.has-text-align-center.fusion-responsive-typography-calculated
+https://platotech.com/,content,h2,,title-heading-center fusion-responsive-typography-calculated,Our Services,,h2.title-heading-center.fusion-responsive-typography-calculated
+https://platotech.com/,content,h4,,fusion-responsive-typography-calculated,Test Automation,,h4.fusion-responsive-typography-calculated
+https://platotech.com/,content,p,,fusion-responsive-typography-calculated,PLATO provides test automation services that help organizations improve the quality of their software products while reducing testing time and costs.,,p.fusion-responsive-typography-calculated
+https://platotech.com/,content,h4,,fusion-responsive-typography-calculated,Functional Testing,,h4.fusion-responsive-typography-calculated
+https://platotech.com/,content,p,,fusion-responsive-typography-calculated,PLATO offers functional testing services to ensure that software applications meet the specified requirements and function as intended.,,p.fusion-responsive-typography-calculated
+https://platotech.com/,content,h4,,fusion-responsive-typography-calculated,Accessibility Testing,,h4.fusion-responsive-typography-calculated
+https://platotech.com/,content,p,,fusion-responsive-typography-calculated,"PLATO offers accessibility testing services to ensure that software applications are usable by people with disabilities, including those who use assistive technologies.",,p.fusion-responsive-typography-calculated
+https://platotech.com/,content,span,,fusion-button-text,Learn More About Our Services,,span.fusion-button-text
+https://platotech.com/,content,h2,,title-heading-center fusion-responsive-typography-calculated,The PLATO Training Program,,h2.title-heading-center.fusion-responsive-typography-calculated
+https://platotech.com/,content,p,,has-text-align-center fusion-responsive-typography-calculated,"The PLATO training program offers a unique opportunity for Indigenous people to start a career in the technology sector. Our program provides comprehensive software testing training, paid internship experience, and guaranteed full-time employment upon successful completion.",,p.has-text-align-center.fusion-responsive-typography-calculated
+https://platotech.com/,content,span,,fusion-button-text,Learn More About Our Training Program,,span.fusion-button-text
+https://platotech.com/,content,h2,,title-heading-center fusion-responsive-typography-calculated,Join Our Team,,h2.title-heading-center.fusion-responsive-typography-calculated
+https://platotech.com/,content,p,,has-text-align-center fusion-responsive-typography-calculated,"PLATO is always looking for talented and passionate individuals to join our team. We offer a dynamic and supportive work environment, competitive salaries and benefits, and opportunities for growth and advancement.",,p.has-text-align-center.fusion-responsive-typography-calculated
+https://platotech.com/,content,span,,fusion-button-text,Join Our Team,,span.fusion-button-text
+https://platotech.com/,content,h2,,title-heading-left fusion-responsive-typography-calculated,Build better software & make a social impact.,,h2.title-heading-left.fusion-responsive-typography-calculated
+https://platotech.com/,content,span,,fusion-button-text-left,Let’s Talk Solutions,,span.fusion-button-text-left
+https://platotech.com/,content,h4,,fusion-responsive-typography-calculated,GENERAL BUSINESS INQUIRIES,,h4.fusion-responsive-typography-calculated
+https://platotech.com/,content,h4,,fusion-responsive-typography-calculated,NEWSLETTER: PLATO Views,,h4.fusion-responsive-typography-calculated
+https://platotech.com/,content,span,,fusion-button-text-left,Subscribe,,span.fusion-button-text-left
+https://platotech.com/,content,h4,,fusion-responsive-typography-calculated,SOCIALS,,h4.fusion-responsive-typography-calculated
+https://platotech.com/,content,h4,,fusion-responsive-typography-calculated,SERVICES,,h4.fusion-responsive-typography-calculated
+https://platotech.com/,content,span,,menu-text,Test Automation,,span.menu-text
+https://platotech.com/,content,span,,menu-text,Functional Testing,,span.menu-text
+https://platotech.com/,content,span,,menu-text,Performance Testing,,span.menu-text
+https://platotech.com/,content,span,,menu-text,Enterprise Resource Planning (ERP) Testing,,span.menu-text
+https://platotech.com/,content,li,menu-item-2786,menu-item menu-item-type-post_type menu-item-object-page menu-item-2786,Accessibility Testing,,#menu-item-2786
+https://platotech.com/,content,span,,menu-text,Accessibility Testing,,span.menu-text
+https://platotech.com/,content,li,menu-item-2612,menu-item menu-item-type-post_type menu-item-object-page menu-item-2612,Content Migration and QA,,#menu-item-2612
+https://platotech.com/,content,span,,menu-text,Content Migration and QA,,span.menu-text
+https://platotech.com/,content,li,menu-item-2617,menu-item menu-item-type-post_type menu-item-object-page menu-item-2617,Test Advisory,,#menu-item-2617
+https://platotech.com/,content,span,,menu-text,Test Advisory,,span.menu-text
+https://platotech.com/,content,li,menu-item-2618,menu-item menu-item-type-post_type menu-item-object-page menu-item-2618,User Acceptance Testing,,#menu-item-2618
+https://platotech.com/,content,span,,menu-text,User Acceptance Testing,,span.menu-text
+https://platotech.com/,content,li,menu-item-2787,menu-item menu-item-type-post_type menu-item-object-page menu-item-2787,IT & Business Consulting,,#menu-item-2787
+https://platotech.com/,content,span,,menu-text,IT & Business Consulting,,span.menu-text
+https://platotech.com/,content,p,,,PLATO | All Rights Reserved | Website by Design de Plume Inc.,,#wrapper>div:nth-child(3)>div:nth-child(1)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>p:nth-child(1)
+https://platotech.com/,content,span,,,"We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.Cookie settingsACCEPT",,#cookie-law-info-bar>span:nth-child(1)
+https://platotech.com/,content,span,cookie_hdr_showagain,,Privacy & Cookies Policy,,#cookie_hdr_showagain
+https://platotech.com/,content,button,cliModalClose,cli-modal-close,Close,,#cliModalClose
+https://platotech.com/,content,span,,wt-cli-sr-only,Close,,span.wt-cli-sr-only
+https://platotech.com/,content,h4,,fusion-responsive-typography-calculated,Privacy Overview,,h4.fusion-responsive-typography-calculated
+https://platotech.com/,content,span,,cli-necessary-caption,Always Enabled,,span.cli-necessary-caption
+https://platotech.com/,content,span,,wt-cli-sr-only,Non-necessary,,span.wt-cli-sr-only
+https://platotech.com/,content,span,awb-to-top-label,screen-reader-text,Go to Top,,#awb-to-top-label

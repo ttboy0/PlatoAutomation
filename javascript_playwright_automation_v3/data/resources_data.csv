@@ -1,0 +1,3 @@
+page_url,element_type,tag_name,id,classes,text,href,selector_css
+https://platotech.com/resources/,link,a,,fusion-logo-link,PLATO Logo,https://platotech.com/,body > div#wrapper > header > div.fusion-header-v1 > div.fusion-header > div.fusion-row > div.fusion-logo > a.fusion-logo-link
+https://platotech.com/resources/,link,a,,fusion-logo-link,,https://platotech.com/,body > div#wrapper > header > div.fusion-header-v1 > div.fusion-header > div.fusion-row > div.fusion-logo > a.fusion-logo-link

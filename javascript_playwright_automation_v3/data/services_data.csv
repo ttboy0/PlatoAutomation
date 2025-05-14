@@ -1,0 +1,6 @@
+element_type,selector,text,href,id,classes,aria_label
+link,"header .fusion-logo-link[href=""https://platotech.com/""]",PLATO Logo,https://platotech.com/,nan,fusion-logo-link,nan
+content,h1.title-heading-left,Services,nan,nan,title-heading-left,nan
+content,h2.title-heading-left >> text=Testing Services,Testing Services,nan,nan,title-heading-left fusion-responsive-typography-calculated,nan
+content,h2.title-heading-left >> text=IT & Business Consulting,IT & Business Consulting,nan,nan,title-heading-left fusion-responsive-typography-calculated,nan
+link,"a[href=""https://platotech.com/lets-talk-solutions/""]",Let’s Talk Solutions,https://platotech.com/lets-talk-solutions/,nan,fusion-bar-highlight,nan

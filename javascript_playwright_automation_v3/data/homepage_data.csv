@@ -1,0 +1,11 @@
+selector,text,href,element_type
+div.fusion-logo > a.fusion-logo-link,PLATO Logo,https://platotech.com/,link
+#menu-item-2578 > a,Services,https://platotech.com/services/,link
+#menu-item-2577 > a,Training Program,https://platotech.com/training/,link
+#menu-item-2679 > a,Careers,https://platotech.com/careers/,link
+#menu-item-2579 > a,About Us,https://platotech.com/about/,link
+#menu-item-2583 > a,Resources,https://platotech.com/resources/,link
+#menu-item-2665 > a,Let’s Talk Solutions,https://platotech.com/lets-talk-solutions/,link
+div.fusion-title.fusion-title-1 > h1.title-heading-left,"Changing our world by building a stronger, more inclusive technology workforce",,content
+div.fusion-text.fusion-text-2.fusion-text-no-margin > p,PLATO is a software testing and technology services company trusted by clients around the world.,,content
+.fusion-alert.alert.custom.alert-custom.fusion-alert-center.alert-dismissable a,CLICK HERE,https://platotech.com/platonews/,link

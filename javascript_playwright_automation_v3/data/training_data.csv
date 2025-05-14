@@ -1,0 +1,9 @@
+page_url,element_type,tag_name,id,classes,text,href,selector_css
+https://platotech.com/training/,link,a,menu-item-2613-link,fusion-bar-highlight,Test Automation,https://platotech.com/services/test-automation/,#menu-item-2613-link
+https://platotech.com/training/,link,a,menu-item-2614-link,fusion-bar-highlight,Functional Testing,https://platotech.com/services/functional-testing/,#menu-item-2614-link
+https://platotech.com/training/,link,a,menu-item-2615-link,fusion-bar-highlight,Performance Testing,https://platotech.com/services/performance-testing/,#menu-item-2615-link
+https://platotech.com/training/,link,a,menu-item-2616-link,fusion-bar-highlight,Enterprise Resource Planning (ERP) Testing,https://platotech.com/services/enterprise-resource-planning-erp-testing/,#menu-item-2616-link
+https://platotech.com/training/,content,h2,training-model,title-heading-left fusion-responsive-typography-calculated,The Train-and-Employ Model,,#training-model
+https://platotech.com/training/,content,h2,training-availability,title-heading-left fusion-responsive-typography-calculated,Availability and Requirements,,#training-availability
+https://platotech.com/training/,content,h2,training-application,title-heading-left fusion-responsive-typography-calculated,Application Form,,#training-application
+https://platotech.com/training/,content,h2,training-faq,title-heading-left fusion-responsive-typography-calculated,Frequently Asked Questions,,#training-faq
